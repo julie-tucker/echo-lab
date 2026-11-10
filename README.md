@@ -1,2 +1,4 @@
 # echo-lab
-test to deploy via gcp
+> about the app
+
+by [julie tucker] (https://github.com/julie-tucker)
