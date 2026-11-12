@@ -1,8 +1,13 @@
 # echo-lab
 > about the app
 
-check out the app: http://136.65.248.190/
+- host: http://136.65.248.190/
 
-website: https://julie.barrycumbie.com/
+- app: https://julie.barrycumbie.com/
+
+- repo: https://github.com/julie-tucker/echo-lab/
+
+
+
 
 by [julie tucker](https://github.com/julie-tucker)
